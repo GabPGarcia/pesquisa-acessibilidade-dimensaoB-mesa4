@@ -1,0 +1,16 @@
+Dado principal - Introdução 
+
+Segundo relatórios globais de acessibilidade digital, mais de 1 bilhão de pessoas no mundo vivem com algum tipo de deficiência,
+o que representa cerca de 15% da população mundial.
+Isso significa que 1 em cada 6 pessoas pode enfrentar barreiras ao usar produtos digitais.
+
+1. Acessibilidade digital no Brasil
+
+- A acessibilidade digital no Brasil tem como objetivo eliminar 
+barreiras que impedem pessoas com deficiência de utilizarem a internet com autonomia.
+- A principal base legal é a Lei Brasileira de Inclusão (Lei nº 13.146/2015), que determina que:
+
+Sites e aplicativos devem ser acessíveis
+Empresas e órgãos públicos devem garantir acesso igualitário
+
+Isso transforma acessibilidade em obrigação legal, não apenas uma boa prática
