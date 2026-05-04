@@ -12,7 +12,7 @@ Análise sobre como a acessibilidade digital é tratada por empresas, legislaç�
 | Categoria              | Exemplo                           | Situação                        | Impacto                 |
 | ---------------------- | --------------------------------- | ------------------------------- | ----------------------- |
 | **Legislação Brasil**  | Lei Brasileira de Inclusão (2015) | Obriga acessibilidade digital   | Responsabilização legal |
-| **Legislação EUA**     | ADA (1990)                        | Aplicada ao digital via न्याय   | Aumento de processos    |
+| **Legislação EUA**     | ADA (1990)                        | Aplicada ao digital | Aumento de processos    |
 | **Caso Internacional** | Domino’s Pizza                    | Falha em leitor de tela         | Precedente jurídico     |
 | **Caso Brasil**        | BRB Banco                         | Falha em acessibilidade         | Indenização             |
 | **Empresa Nacional**   | PicPay                            | Libras, mas sem política formal | Parcial                 |
